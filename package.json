@@ -1,0 +1,6 @@
+{
+  "name": "concert-helper",
+  "private": true,
+  "description": "ibon 釋票監控（GitHub Actions）",
+  "dependencies": { "playwright": "^1.55.0" }
+}
